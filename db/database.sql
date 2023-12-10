@@ -21,3 +21,9 @@
     );
 
     DESCRIBE storage;
+
+    INSERT INTO projects VALUES
+     (1,"Atacocha"),
+     (2,"El Porvenir"),
+     (3,"Selene"),
+     (4,"Inmaculada");
